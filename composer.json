@@ -1,0 +1,16 @@
+{
+    "name": "spryker-feature/marketplace-merchant-contract-requests",
+    "description": "Marketplace Merchant B2B Contract Requests [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202403.x-dev"
+        }
+    }
+}
