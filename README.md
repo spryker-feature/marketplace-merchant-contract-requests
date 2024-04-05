@@ -1,6 +1,6 @@
 # Spryker Feature: Marketplace Merchant B2B Contract Requests
 
-
+This feature allows the management of merchant relation requests in the Merchant Portal.
 
 ## Installation
 
