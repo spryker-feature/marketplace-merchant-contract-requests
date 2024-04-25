@@ -2,6 +2,8 @@
 
 This feature allows the management of merchant relation requests in the Merchant Portal.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/merchant-management/202404.0/marketplace/merchant-b2b-contracts-and-contract-requests-features-overview.html)
+
 ## Installation
 
 ```
